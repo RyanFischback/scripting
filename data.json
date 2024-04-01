@@ -1,0 +1,27 @@
+{
+    "data": {
+      "id": 3028,
+      "itemId": 13576,
+      "name": "Dragon warhammer",
+      "icon": "https://www.ge-tracker.com/assets/images/icons/13576.gif",
+      "buyingQuantity": 25,
+      "sellingQuantity": 21,
+      "buySellRatio": 1.19,
+      "overall": 51114673,
+      "buying": 51103395,
+      "selling": 51128101,
+      "approxProfit": -24706,
+      "buyPriceCurrent": true,
+      "sellPriceCurrent": true,
+      "lastKnownBuyTime": "2018-11-28 10:50:33",
+      "lastKnownSellTime": "2018-11-28 10:50:33",
+      "buyLimit": 8,
+      "members": true,
+      "lowAlch": 48000,
+      "highAlch": 72000,
+      "updatedAt": "2018-11-28 10:50:33",
+      "cachedUntil": "2018-11-28 11:00:33",
+      "slug": "dragon-warhammer",
+      "url": "https://www.ge-tracker.com/item/dragon-warhammer"
+    }
+}
